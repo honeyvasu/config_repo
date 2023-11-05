@@ -1,2 +1,2 @@
 # config_repo
-Configuration Repository for microservices
+This is the base configuration repository for microservices
